@@ -1,4 +1,4 @@
-# XYZ Movie Booking (Java / Spring Boot)
+# Movie Booking (Java / Spring Boot)
 
 A starter implementation of a two-sided **movie ticket booking platform** for **B2C customers** and **B2B theatre partners**.
 
